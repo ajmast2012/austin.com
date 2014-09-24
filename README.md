@@ -10,4 +10,4 @@
 :clap:
 :boom::boom:
 :squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel:
-:floppy_disk::bike::bike::bike::bike::bike::b:squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel:ike::bike::bike::bike::bike::bike::bike::bike::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel:
+:floppy_disk::bike::bike::bike::bike::bike::b:squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::bike::bike::bike::bike::bike::bike::bike::bike::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel::squirrel:
