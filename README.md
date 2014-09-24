@@ -5,6 +5,7 @@
 :boom:
 :clap:
 :boom::boom:
+/play crickets
 :clap:
 :boom:
 :clap:
