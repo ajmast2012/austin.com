@@ -8,7 +8,22 @@
 
 body { background: #000; color: #fff; position: relative;}
 
+.austin-wrapper {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 80px;
+}
+
 .vimeo-container {
+  text-align: center;
+  width: 100%;
+}
+
+.vimeo-container iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
 }
 
 .chrome {
